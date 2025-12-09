@@ -1,8 +1,3 @@
-# deepbrush
-Here is the **updated, professional README.md**, revised to assume you are **uploading the `.ipynb` file directly to GitHub**, and **all links have been removed** as requested.
-
----
-
 # Deep Brush: Visualizing Artistic Textures with CNNs
 
 **Deep Brush** is a deep learning project focused on analyzing and visualizing artistic textures using Convolutional Neural Networks (CNNs). The project explores how convolutional layers learn artistic patterns and applies multiple visualization techniques to interpret the internal representations of a trained model.
